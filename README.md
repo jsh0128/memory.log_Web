@@ -7,7 +7,7 @@
 |              |        WEB         |        WEB         |        Web         |  SERVER  |  SERVER  |    DESIGN     |
 | :----------: | :----------------: | :----------------: | :----------------: | :------: | :------: | :-----------: |
 |     Name     |       정성훈       |       임규민       |       조민희       |  제정민  |  차승호  | 임규민,조민희 |
-|   Language   |      react.ts      |      react.ts      |      react.ts      |   java   |   java   |               |
+|   Language   |      react.js      |      react.js      |      react.js      |   java   |   java   |               |
 | Develop Tool | Visual Studio Code | Visual Studio Code | Visual Studio Code | Intellij | Intellij |   Adobe XD    | 
 
 ### 스크린샷
